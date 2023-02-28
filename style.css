@@ -1,0 +1,103 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+.clearfix
+{
+    clear: both;
+}
+.chef
+{
+padding-bottom: 30px;
+}
+
+.chef-img
+{
+    width: 40%;
+    float: left;
+}
+
+.chef-img img
+{
+    width: 100%;
+}
+
+.chef-pargh
+{
+    width: 60%;
+    text-align: center;
+    float: left;
+    padding-top: 200px;
+}
+
+.chef-pargh p
+{
+    font-size: 18px;
+    padding: 20px 50px;
+    color: #868686;
+}
+
+.chef-pargh h1
+{
+    font-family: 'Dancing Script', cursive;
+    color: #f2ce08;
+    font-size: 200%;
+    margin: 30px 0px;
+}
+.chef-pargh h2
+{
+    margin: 30px 0px;
+}
+.chef-pargh button
+{
+    border:solid 4px black;
+    padding: 20px 25px;
+    background-color: transparent;
+    margin-top: 20px;
+
+}
+
+.banner
+{
+height: 400px;
+background-image: url(Photos/Resturant.jpg);
+background-attachment: fixed;
+}
+
+.meals
+{
+    padding: 50px 0px;
+    width: 80%;
+    margin: auto;
+}
+.meals h3
+{
+    font-size: 150%;
+}
+.meals p
+{
+    padding: 10px 50px;
+    color: #868686;
+}
+.meal
+{
+    width: 25%;
+    text-align: center;
+    float: left;
+ }
+.meal img
+{
+    width: 80%;
+    border-radius: 100%;
+    margin: 30px 0px;
+}
+.meal .boarder
+{
+    background-color: #868686;
+    width: 30%;
+    height: 2px;
+    margin: 20px auto;
+
+}
